@@ -3,7 +3,7 @@ id: iml-canon-offer
 client_id: ismylova
 record_type: knowledge
 service_path: company
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: client

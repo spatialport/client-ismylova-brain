@@ -3,7 +3,7 @@ id: iml-brief-branding
 client_id: ismylova
 record_type: brief
 service_path: branding
-status: proposed
+status: accepted
 owner: alex-bellesia
 authority: alex-bellesia
 ip_owner: spatial-port
